@@ -2,7 +2,7 @@
 
 Welcome to the official repository for **ExpressNet-MoE**, a hybrid deep neural network architecture designed for emotion recognition. This repository contains the complete collection of Jupyter Notebooks used for the model development and experimentation described in the paper:
 
-> **ExpressNet-MoE: Hybrid Deep Neural Network for Emotion Recognition**  
+> **ExpressNet-MoE: A hybrid deep neural network for emotion recognition**  
 > *Deeptimaan Banerjee, Prateek Gothwal & Ashis Kumer Biswas*
 
 ---
